@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/hello.dir/hello.o  -o ../bin/hello -rdynamic ../lib/libexample01.so ../lib/libexample02.a -Wl,-rpath,/home/zlg/disk/github/cmake_demo/d4/build/lib 

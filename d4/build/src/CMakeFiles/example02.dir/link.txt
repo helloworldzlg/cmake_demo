@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libexample02.a  CMakeFiles/example02.dir/example02.o
+/usr/bin/ranlib ../lib/libexample02.a

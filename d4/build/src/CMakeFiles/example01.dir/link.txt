@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libexample01.so -o ../lib/libexample01.so CMakeFiles/example01.dir/example01.o 

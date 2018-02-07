@@ -1,0 +1,7 @@
+/home/zlg/disk/github/cmake_demo/d4/build/CMakeFiles/edit_cache.dir
+/home/zlg/disk/github/cmake_demo/d4/build/CMakeFiles/rebuild_cache.dir
+/home/zlg/disk/github/cmake_demo/d4/build/src/CMakeFiles/edit_cache.dir
+/home/zlg/disk/github/cmake_demo/d4/build/src/CMakeFiles/example02.dir
+/home/zlg/disk/github/cmake_demo/d4/build/src/CMakeFiles/example01.dir
+/home/zlg/disk/github/cmake_demo/d4/build/src/CMakeFiles/hello.dir
+/home/zlg/disk/github/cmake_demo/d4/build/src/CMakeFiles/rebuild_cache.dir
